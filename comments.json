@@ -1,12 +1,17 @@
 [
     {
+        "text": "Cham you're awesome!",
         "id": 1388534400000,
-        "author": "Pete Hunt",
-        "text": "Hey there!"
+        "author": "Cham Mamador"
     },
     {
+        "text": "React is *great*!",
         "id": 1420070400000,
-        "author": "Paul O’Shannessy",
-        "text": "React is *great*!"
+        "author": "Paul O\u2019Shannessy"
+    },
+    {
+        "text": "cham the great",
+        "id": 1459765604483,
+        "author": "Cham the Great"
     }
 ]
